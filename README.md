@@ -1,2 +1,2 @@
-# support-vector-machine-from-scratch
-how use support vector machine in different projects
+# Data Science from Bash
+how use Data Pipelines in Bash
